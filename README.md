@@ -1,8 +1,7 @@
 GSEBeLux Assets website
 ========================
 
-[![Build Status](https://circleci.com/gh/GSEBeLux/gsebelux.eu.svg?branch=master)](https://circleci.com/gh/GSEBeLux/gsebelux.eu)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/cbb70af6-e87c-4afa-bdfb-91970dca6962/deploy-status)](https://app.netlify.com/sites/gsebelux/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e62d2cd8-cda6-4b51-b861-8ba289ea4046/deploy-status)](https://app.netlify.com/sites/quizzical-mclean-831ac9/deploys)
 
 
 # GSEBeLux
